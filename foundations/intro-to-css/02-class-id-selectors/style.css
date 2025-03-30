@@ -1,0 +1,16 @@
+.odd {
+    background-color: #f7585880;
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+  }
+  .odd.n3{
+    font-size: 24px;
+  }
+  #n2{
+    color: #0011ff80;
+    font-size: 36px;
+  }
+  #n4{
+    background-color: hsla(120, 50%, 58%, 0.502);
+    font-size: 24px;
+    font-weight: bold;
+  }
